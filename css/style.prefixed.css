@@ -4,6 +4,7 @@ h1 {
 }
 
 .rule {
+    display:-ms-flexbox;
     display:flex;
 }
 
